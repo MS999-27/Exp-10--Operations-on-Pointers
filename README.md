@@ -1,4 +1,4 @@
-# Exp-9--Operations-on-Pointers
+# Exp-10--Operations-on-Pointers
 # AIM
 
 To learn pointer operations in c++.
